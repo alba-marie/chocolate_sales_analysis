@@ -8,4 +8,4 @@ def load_data(file_path):
     except FileNotFoundError:
         print(f"Error: The file {file_path} was not found")
 
-        
+
